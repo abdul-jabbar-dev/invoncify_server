@@ -1,0 +1,69 @@
+# compiled output
+/dist
+/node_modules
+/build
+
+# Logs
+logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# OS
+.DS_Store
+
+# Tests
+/coverage
+/.nyc_output
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# dotenv environment variable files
+.env 
+
+//src/services/serviceAccountKey.json
+// {
+//     "type": "service_account",
+//     "project_id": "invoncify-600c8",
+//     "private_key_id": "aac677cffefb4ac8742a35771d9d747f14693fb5",
+//     "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCEY9c3P1k9Ru4D\nsfC42cmDRdiKiliV7LgKthMbI93K+JulEig6G3s/fVaNqh5IvW9AZsSmmwhy7WBV\nSAtCYRKopSwMA1tX0KnF5EVVAzgQZwUC3Zjrosk4B5oKwvPmD1yTYbVC2vIUGAxn\nGSTUygcFGUx34zG52U5LHhHv5HfTTrbCU/vaNMNnzkiJghr4FkgVe45w53XETma1\nchLLuE0ZgcJQqv6E4TrmoPdmm6nx2Qpvnq+PHo55VK6iaiNjbPT7wI+dT+4BGKCr\noKvK4ztK7LKtTdWXMG/zDxSrJMWtiR69jOpP9LVuhwR9qx546Pq1VZgKUfW0XeIA\ndxUnM39NAgMBAAECggEALMh9L7IdJM5Oiy9xB4acVOyWkF62EpkNtIncsqySRSuN\nsuwOcYGEUni6g5dNQTvbW0SoNtdwpzfHA3IoZN7jaerdmH62MmFiXI+YKGa7W0kN\n9+cv6F2bhXmE0SkbSfJeVXiS0Tew9b0gzOtDezuP3litdkyDMKPiiSR12tlE81RL\nj1DxVo8aNPgpA7HpYyLPgi2eJ7IUZPA7e2FbSZtvoaCFTjoCRFcD52JosK7ZVSJV\nnuZrXQBQaCXJbwTeV3hct1uLr61J5AhxdQdSdFhtZnwkQJLPZquD2dn6yyGX0fzw\nbkgV5jmZuPzr5AhmDhK+406AzmY1au3AVV73aYPo/QKBgQC4jTBeF29Rw44rlxQZ\nFSPGWHCVJeuc1IaEfh6kOdc93Suot8EifEpK8LqouZllGeT2e1PFgdhEfPgVD0cb\nui/xer01b5Ce0jViVo+QtQ+QXMfgSS/PWit6GgwpB+npmG/ZQUvsvH7QSBoMyh1D\ndflBRPDF5KGnRVO+zHLFJfxlYwKBgQC3pPMEIvVJ3uKcpIS+ZsXm/QncgzTkTKDW\nD5ef6dRL7fACCA5bH380P6+AVGXAdiAilRrWnL8Soe4GPY281wREL4SsiLVfLEYn\nsYUYr+uNGonPI0+lGwA+LZC33kHP27ifzv+YFH/0J78G0Vrz0mpcZiKPIyXl9eQk\nh55Qh8a/jwKBgAgaAp6Ozs87E3msZzB2shxZ849Im+BFoCYe1z+EXoOTuv/sGSln\nZWeGy9ruUuKSUW/UmCfafGD9T3K1OfzonoQuTDIVVLb0KW3IuQK0QBupRwj8jYG/\nxprUm+YNN+KOU5KpAClDWRnRoHshQEme2zNXUG6Pi90o+PUuSneHJF5bAoGAe7+Z\nSpZL9+VLiwaJtMwIW6jzdjar85N3ZgfHwqiMuEWzz4qiMeE9lHW9y5oTnud6rBMR\nrMCfOO0JOgdMdY3mgBQNMT5GCcYJ2EGVUJdrAQB7EKvYxYc2WK/Xry8D5g9Hj9iq\n/04BEwOdg/ibc2W86lqguxeSOC3D+KGyms2Drh0CgYAkDjmUNFeYi2nvlBInEeOY\nb37ZzUKnmQShRVYe5zxEPYCDq1p56r91/ZEYR5H9oq6dImMSFA6Ty+EMbB7Fltcd\nqSjJ9eu4nuk3pmvmfpHRrHaEpiS28ho6NtbucwFcOakIF/8RhsXuEFRmQD5vIZ0V\nJ+Lif/s4LcfaYFHQqFfSLQ==\n-----END PRIVATE KEY-----\n",
+//     "client_email": "firebase-adminsdk-ze7vb@invoncify-600c8.iam.gserviceaccount.com",
+//     "client_id": "110613666278740572712",
+//     "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+//     "token_uri": "https://oauth2.googleapis.com/token",
+//     "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+//     "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ze7vb%40invoncify-600c8.iam.gserviceaccount.com",
+//     "universe_domain": "googleapis.com"
+//   }
+  
+// .env
+// FIREBASE_SERVICE_ACCOUNT='{
+//   "type": "service_account",
+//   "project_id": "invoncify-600c8",
+//   "private_key_id": "aac677cffefb4ac8742a35771d9d747f14693fb5",
+//   "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCEY9c3P1k9Ru4D\nsfC42cmDRdiKiliV7LgKthMbI93K+JulEig6G3s/fVaNqh5IvW9AZsSmmwhy7WBV\nSAtCYRKopSwMA1tX0KnF5EVVAzgQZwUC3Zjrosk4B5oKwvPmD1yTYbVC2vIUGAxn\nGSTUygcFGUx34zG52U5LHhHv5HfTTrbCU/vaNMNnzkiJghr4FkgVe45w53XETma1\nchLLuE0ZgcJQqv6E4TrmoPdmm6nx2Qpvnq+PHo55VK6iaiNjbPT7wI+dT+4BGKCr\noKvK4ztK7LKtTdWXMG/zDxSrJMWtiR69jOpP9LVuhwR9qx546Pq1VZgKUfW0XeIA\ndxUnM39NAgMBAAECggEALMh9L7IdJM5Oiy9xB4acVOyWkF62EpkNtIncsqySRSuN\nsuwOcYGEUni6g5dNQTvbW0SoNtdwpzfHA3IoZN7jaerdmH62MmFiXI+YKGa7W0kN\n9+cv6F2bhXmE0SkbSfJeVXiS0Tew9b0gzOtDezuP3litdkyDMKPiiSR12tlE81RL\nj1DxVo8aNPgpA7HpYyLPgi2eJ7IUZPA7e2FbSZtvoaCFTjoCRFcD52JosK7ZVSJV\nnuZrXQBQaCXJbwTeV3hct1uLr61J5AhxdQdSdFhtZnwkQJLPZquD2dn6yyGX0fzw\nbkgV5jmZuPzr5AhmDhK+406AzmY1au3AVV73aYPo/QKBgQC4jTBeF29Rw44rlxQZ\nFSPGWHCVJeuc1IaEfh6kOdc93Suot8EifEpK8LqouZllGeT2e1PFgdhEfPgVD0cb\nui/xer01b5Ce0jViVo+QtQ+QXMfgSS/PWit6GgwpB+npmG/ZQUvsvH7QSBoMyh1D\ndflBRPDF5KGnRVO+zHLFJfxlYwKBgQC3pPMEIvVJ3uKcpIS+ZsXm/QncgzTkTKDW\nD5ef6dRL7fACCA5bH380P6+AVGXAdiAilRrWnL8Soe4GPY281wREL4SsiLVfLEYn\nsYUYr+uNGonPI0+lGwA+LZC33kHP27ifzv+YFH/0J78G0Vrz0mpcZiKPIyXl9eQk\nh55Qh8a/jwKBgAgaAp6Ozs87E3msZzB2shxZ849Im+BFoCYe1z+EXoOTuv/sGSln\nZWeGy9ruUuKSUW/UmCfafGD9T3K1OfzonoQuTDIVVLb0KW3IuQK0QBupRwj8jYG/\nxprUm+YNN+KOU5KpAClDWRnRoHshQEme2zNXUG6Pi90o+PUuSneHJF5bAoGAe7+Z\nSpZL9+VLiwaJtMwIW6jzdjar85N3ZgfHwqiMuEWzz4qiMeE9lHW9y5oTnud6rBMR\nrMCfOO0JOgdMdY3mgBQNMT5GCcYJ2EGVUJdrAQB7EKvYxYc2WK/Xry8D5g9Hj9iq\n/04BEwOdg/ibc2W86lqguxeSOC3D+KGyms2Drh0CgYAkDjmUNFeYi2nvlBInEeOY\nb37ZzUKnmQShRVYe5zxEPYCDq1p56r91/ZEYR5H9oq6dImMSFA6Ty+EMbB7Fltcd\nqSjJ9eu4nuk3pmvmfpHRrHaEpiS28ho6NtbucwFcOakIF/8RhsXuEFRmQD5vIZ0V\nJ+Lif/s4LcfaYFHQqFfSLQ==\n-----END PRIVATE KEY-----\n",
+//   "client_email": "firebase-adminsdk-ze7vb@invoncify-600c8.iam.gserviceaccount.com",
+//   "client_id": "110613666278740572712",
+//   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+//   "token_uri": "https://oauth2.googleapis.com/token",
+//   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+//   "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ze7vb%40invoncify-600c8.iam.gserviceaccount.com",
+//   "universe_domain": "googleapis.com"
+// }'
